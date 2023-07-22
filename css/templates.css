@@ -1,0 +1,19 @@
+.bg-red{
+    background-color: red;
+}
+
+.bg-azred{
+    background-color: crimson;
+}
+
+.big{
+    font-size: 2rem;
+}
+.medium{
+    font-size: 1.5rem;
+}
+
+.small{
+    font-size: 1.25rem;
+}
+

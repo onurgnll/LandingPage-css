@@ -1,0 +1,23 @@
+html {
+    font-family: 'Lumanosimo', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(159, 157, 157);
+    margin: 0px;
+    padding: 0px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
